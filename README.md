@@ -1,45 +1,41 @@
-### Hi there, 👋
+#
 
-### Connect with me:
+## Hi there, I'm Quang 👋
 
-[<img align="left" alt="quang | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/phquang98/)
-[<img align="left" alt="quang | Porfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://www.google.com/)
+### Contact me at
 
+<!-- markdownlint-disable MD033 -->
+
+[<img align="left" alt="Pham Huy Quang | LinkedIn" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/phquang98/)
+[<img align="left" alt="Pham Huy Quang | Porfolio" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://www.google.com/)
+<br>
 <br>
 
-### Languages
+<!-- markdownlint-disable MD033 -->
 
-<a href="#"><img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></a>
+### Languages (hover for details)
 
-<a href="#"><img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /></a>
+<div display="flex" flex-direction="row">
+    <img alt="Typescript" title="Typescript" width="30px" src="./icons/typescript.svg" />
+    <img alt="React Typescript" title="React Typescript" width="30px" src="./icons/react_ts.svg" />
+    <img alt="Javascript" title="Javascript" width="30px" src="./icons/javascript.svg" />
+    <img alt="React" title="React" width="30px" src="./icons/react.svg" />
+    <img alt="NodeJS" title="NodeJS" width="30px" src="./icons/nodejs.svg" />
+    <img alt="HTML" title="HTML" width="30px" src="./icons/html.svg" />
+    <img alt="CSS" title="CSS" width="30px" src="./icons/css.svg" />
+    <img alt="Sass" title="Sass" width="30px" src="./icons/sass.svg" />
+    <img alt="ESLint" title="ESLint" width="30px" src="./icons/eslint.svg" />
+    <img alt="Prettier" title="Prettier" width="30px" src="./icons/prettier.svg" />
+</div>
 
-<a href="#"><img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" /></a>
-
-<br>
-
-### 📌 Latest projects:
+### 📌 Latest projects
 
 - [Random project](https://www.google.com/)
 
 #### Notes
 
-Currently, i am open to work
+Currently, i am open for job opportunities.
 
 ---
 
 ![phquang98's Github Stats](https://github-readme-stats.vercel.app/api?username=phquang98&show_icons=true&count_private=true)
-
-<!--
-**phquang98/phquang98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
