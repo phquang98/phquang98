@@ -13,6 +13,10 @@
 
 <!-- markdownlint-disable MD033 -->
 
+### 📌 Latest projects (if you read my CV/resume, SEE THIS)
+
+- [Random project](https://www.google.com/)
+
 ### Languages (hover for details)
 
 <div display="flex" flex-direction="row">
@@ -27,10 +31,6 @@
     <img alt="ESLint" title="ESLint" width="30px" src="./icons/eslint.svg" />
     <img alt="Prettier" title="Prettier" width="30px" src="./icons/prettier.svg" />
 </div>
-
-### 📌 Latest projects
-
-- [Random project](https://www.google.com/)
 
 #### Notes
 
