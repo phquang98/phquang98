@@ -9,8 +9,8 @@
 
 <!-- markdownlint-disable MD033 -->
 
-[![Gmail](https://img.shields.io/badge/phquang98-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
-[![LinkedIn](https://img.shields.io/badge/phquang98-0E76A8?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phquang98/)
+[![Gmail](https://img.shields.io/badge/phquang98-D14836?style=flat-square&logo=gmail&logoColor=white)](https://github.com/phquang98)
+[![LinkedIn](https://img.shields.io/badge/phquang98-0E76A8?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phquang98/)
 <br>
 <br>
 
