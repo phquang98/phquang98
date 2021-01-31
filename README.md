@@ -11,8 +11,6 @@
 
 [![Gmail](https://img.shields.io/badge/phquang98-D14836?style=flat-square&logo=gmail&logoColor=white)](https://github.com/phquang98)
 [![LinkedIn](https://img.shields.io/badge/phquang98-0E76A8?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phquang98/)
-<br>
-<br>
 
 <!-- markdownlint-disable MD033 -->
 
