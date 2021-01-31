@@ -9,7 +9,7 @@
 
 <!-- markdownlint-disable MD033 -->
 
-[![Gmail](https://img.shields.io/badge/phquang98-D14836?style=for-the-badge&logo=gmail&logoColor=white)](phquang98@gmail.com)
+[![Gmail](https://img.shields.io/badge/phquang98-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
 [![LinkedIn](https://img.shields.io/badge/phquang98-0E76A8?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phquang98/)
 <br>
 <br>
@@ -49,7 +49,7 @@
     <div display="flex" flex-direction="row">
         <b>Hosting/SaaS:</b>
         <img alt="AWS" src="https://img.shields.io/badge/AWS%20-FF9900.svg?&style=flat-square&logo=amazon-aws&logoColor=white"/>
-        <img alt="Heroku" src="https://img.shields.io/badge/heroku%20-430098.svg?&style=flat-square&logo=heroku&logoColor=white"/>
+        <img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-430098.svg?&style=flat-square&logo=heroku&logoColor=white"/>
     </div>
     <div display="flex" flex-direction="row">
         <b>CI/CD:</b>
@@ -65,7 +65,7 @@
 
 #### Notes
 
-Currently, i am open for job opportunities.
+Currently, I am open for job opportunities.
 
 ---
 
