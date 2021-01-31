@@ -5,7 +5,7 @@
 
 ## Hi there, I'm Quang 👋
 
-### Contact me at
+### :email: Contact me at
 
 <!-- markdownlint-disable MD033 -->
 
@@ -20,7 +20,7 @@
 
 - [Random project](https://www.google.com/)
 
-### Familiar Technologies
+### :wrench: Familiar Technologies
 
 <div display="flex" flex-direction="column">
     <div display="flex" flex-direction="row">
@@ -63,10 +63,11 @@
 
 </div>
 
-#### Notes
+#### :page_facing_up: Notes
 
 Currently, I am open for job opportunities.
 
 ---
 
 ![phquang98's Github Stats](https://github-readme-stats.vercel.app/api?username=phquang98&show_icons=true&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phquang98&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
